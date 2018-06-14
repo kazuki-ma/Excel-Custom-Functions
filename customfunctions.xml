@@ -6,7 +6,7 @@
  xsi:type="TaskPaneApp">
 	<Id>b12101b4-2706-4128-98b2-d8a1842131a3</Id>
 	<Version>1.0.0.0</Version>
-	<ProviderName>Contoso</ProviderName>
+	<ProviderName>Kazuki MATSUDA</ProviderName>
 	<DefaultLocale>en-US</DefaultLocale>
 	<DisplayName DefaultValue="Custom Functions Sample" />
 	<Description DefaultValue="Samples to test custom functions" />
@@ -43,7 +43,7 @@
 				<bt:Url id="HTML-URL" DefaultValue="http://127.0.0.1:8080/customfunctions.html" />
 			</bt:Urls>
 			<bt:ShortStrings>
-				<bt:String id="namespace" DefaultValue="CONTOSO" />
+				<bt:String id="namespace" DefaultValue="MATSUDAK" />
 			</bt:ShortStrings>
 		</Resources>
 	</VersionOverrides>
